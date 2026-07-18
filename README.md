@@ -134,3 +134,8 @@ python main.py
 ```bash
 python main.py traffic1.mp4
 ```
+
+Sample Screenshot:
+
+![image alt](https://github.com/niharika802/Intelligent-traffic-management-using-AI/blob/a5a3f619adea2f46acadf530c56c6564f9f96afb/Screenshot%202026-07-17%20211404.png)
+
